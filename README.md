@@ -17,16 +17,17 @@ Create a simple RESTful API for managing a list of users, testing concepts such 
 
 ### `GET /users` – Fetch the list of all users.
 
-![Screenshot of GET /users](![alt text](images/GETall.png))
+##### !Screenshot of GET /users
+![alt text](images/GETall.png)
 
 ### `GET /users/:id` – Fetch details of a specific user by ID.
 
-![Screenshot of GET /users/:id]
+##### !Screenshot of GET /users/:id
 ![alt text](images/GET1.png)
 
 ### Error while GET user by ID
 
-![Screenshot of GET /users/:id Error]
+##### !Screenshot of GET /users/:id Error
 ![alt text](images/GETerr.png)
 
 ---
@@ -37,16 +38,16 @@ Create a simple RESTful API for managing a list of users, testing concepts such 
 
 #### Success:
 
-![Screenshot of successful POST /user]
+##### !Screenshot of successful POST /user
 ![alt text](images/POST.png)
 
 #### Errors While POST:
 
 - **Missing fields**
-  ![Screenshot of missing fields POST error]
+  ##### !Screenshot of missing fields POST error
   ![alt text](images/POSTerr1.png)
 - **Invalid fields**
-  ![Screenshot of invalid fields POST error]
+  ##### !Screenshot of invalid fields POST error
   ![alt text](images/POSTerr2.png)
 
 ---
@@ -57,19 +58,19 @@ Create a simple RESTful API for managing a list of users, testing concepts such 
 
 #### Success:
 
-![Screenshot of successful PUT /user/:id]
+##### !Screenshot of successful PUT /user/:id
 ![alt text](images/PUT.png)
 
 #### Errors While PUT:
 
 - **Invalid fields**
-  ![Screenshot of invalid fields PUT error]
+  ##### !Screenshot of invalid fields PUT error
   ![alt text](images/PUTerr1.png)
 - **Missing fields**
-  ![Screenshot of missing fields PUT error]
+  ##### !Screenshot of missing fields PUT error
   ![alt text](images/PUTerr2.png)
 - **User not found**
-  ![Screenshot of user not found error]
+  ##### !Screenshot of user not found error
   ![alt text](images/PUTerr3.png)
 
 ---
@@ -80,10 +81,10 @@ Create a simple RESTful API for managing a list of users, testing concepts such 
 
 #### Success and displaying the deleted user:
 
-![Screenshot of DELETE success]
+##### !Screenshot of DELETE success
 ![alt text](/images/DEL.png)
 
 #### Now when we GET all users, only 3 users are left:
 
-![Screenshot of updated user list after DELETE]
+##### !Screenshot of updated user list after DELETE
 ![alt text](images/DEL1.png)
