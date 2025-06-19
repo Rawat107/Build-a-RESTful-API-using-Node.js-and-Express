@@ -1,6 +1,6 @@
 # Objective:
 
-Create a simple RESTful API for managing a list of users, testing concepts such as routing, middleware, HTTP methods, status codes, error handling, and interaction with a data source.
+A simple RESTful API for managing a list of users, testing concepts such as routing, middleware, HTTP methods, status codes, error handling, and interaction with a data source.
 
 ## How to run:
 
