@@ -17,8 +17,7 @@ Create a simple RESTful API for managing a list of users, testing concepts such 
 
 ### `GET /users` – Fetch the list of all users.
 
-![Screenshot of GET /users]
-![alt text](images/GETall.png)
+![Screenshot of GET /users](![alt text](images/GETall.png))
 
 ### `GET /users/:id` – Fetch details of a specific user by ID.
 
