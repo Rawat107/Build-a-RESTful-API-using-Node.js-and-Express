@@ -7,7 +7,9 @@ Create a simple RESTful API for managing a list of users, testing concepts such 
 ### 1. Initialize a Node.js project: (5 marks)
 
 - `npm install Express`
-- ***
+- `node --watch index.js`
+
+### 2. Use thunderclient or postman to test the url response.
 
 # Test Screenshots of All Methods
 
